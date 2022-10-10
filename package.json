@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-screen-orientation",
-  "version": "3.0.4",
+  "version": "3.0.4-ergon-1",
   "description": "Cordova Screen Orientation plugin",
   "repository": "github:apache/cordova-plugin-screen-orientation",
   "bugs": "https://github.com/apache/cordova-plugin-screen-orientation/issues",
@@ -39,5 +39,8 @@
         "cordova": ">100"
       }
     }
+  },
+  "publishConfig": {
+    "registry": "https://npm.ergon.ch"
   }
 }
